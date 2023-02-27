@@ -1,0 +1,14 @@
+.approvement-modals {
+  width: 80vw !important;
+  max-width: none !important;
+}
+
+#approvement-modal .modal-content {
+  /* width: 1px; */
+  background: none;
+  border: none;
+}
+
+/* *:hover {
+  all: unset !important;
+} */
